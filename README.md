@@ -7,10 +7,10 @@ In recent years, the use of collagen-containing preparations has increased consi
 ### Methods: 
 
 [^1] Collagen Extraction:
-![Uploading image.png…)![image](https://github.com/sema-taktakoglu/Nursema/assets/147664640/423e40a7-5134-468e-9587-02c58a6f2e97)
+![image](https://github.com/sema-taktakoglu/Nursema/assets/147664640/1c7ce245-1c59-40e4-a1ad-62b7253984ce)
 
 [^2] Cell Culture and cell migration:
-![image](https://github.com/sema-taktakoglu/Nursema/assets/147664640/bb32b430-875c-4c84-b775-70e3a47c4e78)
+![image](https://github.com/sema-taktakoglu/Nursema/assets/147664640/5ba6849e-8cb8-448b-893f-444de5cbc1a3)
 
 #### Result:
 With this proposed project, we are planning to isolate Type I and III collagen from the placenta, a biological waste material rich in collagen, which is the most needed type. Collagen will be extracted from the placenta by enzymatic method. After extraction, 2-dimensional (2D) gel electrophoresis, Western blot will be performed. Our aim with this project is make a preliminary study for the extraction of Type I and Type III collagen from the placenta, which is discarded as medical waste at the end of the pregnancy process, and to evaluate the extraction results in 2D gel electrophoresis, WB techniques. If this project is completed successfully,  appropriate absolute collagen  will be obtained from the human placenta.Then, the obtained collagen was processed in vitro by fibroblasts. Its effects on wound healing will be examined. What we achieved within the scope of our planned project. The inferences will open our horizons for new projects we can do in this field. These are the collagen originating from the placenta.
